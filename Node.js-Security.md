@@ -17,6 +17,14 @@
 * [NodeJS Application Pentest Tips - Improper URI Handling in Express](https://medium.com/bugbountywriteup/nodejs-application-pentest-tips-improper-uri-handling-in-express-390b3a07cb3e)
 * [Pen Testing Node.js: Staying N Sync Can Make the Server Go Bye Bye Bye](https://pen-testing.sans.org/blog/2015/12/20/pen-testing-node-js-staying-n-sync-can-make-the-server-go-bye-bye-bye#)
 
+### Node.js Deserialization Attack
+
+* [Exploiting Node.js deserialization bug for Remote Code Execution](https://opsecx.com/index.php/2017/02/08/exploiting-node-js-deserialization-bug-for-remote-code-execution/)
+* [Celestial — A Node.js Deserialization HackTheBox Walk-through](https://medium.com/bugbountywriteup/celestial-a-node-js-deserialization-hackthebox-walk-through-c71a4da14eaa)
+* [Node.Js Deserialization Attack – Detailed Tutorial 2018](https://www.yeahhub.com/nodejs-deserialization-attack-detailed-tutorial-2018/)
+* [HACKING NODE SERIALIZE REMOTE CODE EXECUTION DONE NICELY](https://blog.websecurify.com/2017/02/hacking-node-serialize.html)
+
+
 ## Tools & Secure Coding Examples
 
 * [nodejs-security](https://github.com/davelosert/nodejs-security)
@@ -34,3 +42,5 @@
 
 * [NodeGoat](https://nodegoat.herokuapp.com/login) Hosted on Heroku - [Walkthrough](https://www.gitbook.com/book/ckarande/owasp-nodegoat-tutorial)
 * [OWASP JuiceShop](https://github.com/bkimminich/juice-shop) - [Walkthrough](https://legacy.gitbook.com/book/bkimminich/pwning-owasp-juice-shop/details)
+* [XVNA (eXtremely Vulnerable Node Application)](https://github.com/vegabird/xvna)
+
