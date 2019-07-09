@@ -16,6 +16,7 @@
 * [JWT Authentication & Authorization in NodeJs/Express & MongoDB REST APIs(2019)](https://medium.com/swlh/jwt-authentication-authorization-in-nodejs-express-mongodb-rest-apis-2019-ad14ec818122)
 * [NodeJS Application Pentest Tips - Improper URI Handling in Express](https://medium.com/bugbountywriteup/nodejs-application-pentest-tips-improper-uri-handling-in-express-390b3a07cb3e)
 * [Pen Testing Node.js: Staying N Sync Can Make the Server Go Bye Bye Bye](https://pen-testing.sans.org/blog/2015/12/20/pen-testing-node-js-staying-n-sync-can-make-the-server-go-bye-bye-bye#)
+* [Immediately Invoked Function Expression](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
 
 ### Node.js Deserialization Attack
 
